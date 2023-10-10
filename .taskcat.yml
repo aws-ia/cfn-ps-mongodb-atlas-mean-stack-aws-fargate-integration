@@ -1,7 +1,7 @@
 general:
   s3_regional_buckets: true
 project:
-  name: quickstart-mongodb-atlas-mean-stack-aws-fargate-integration
+  name: cfn-ps-mongodb-atlas-mean-stack-aws-fargate-integration
   owner: quickstart-eng@amazon.com
   package_lambda: false
   shorten_stack_name: true
